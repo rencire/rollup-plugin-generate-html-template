@@ -5,8 +5,8 @@
 Auto-inject the resulting rollup bundle via a `script` tag into a HTML template.
 
 ## TODO
-* Add a `module` option to inject `<script type="module" src.... />` right before `</head>`.
-* Integrate with [rollup-plugin-hash](https://github.com/phamann/rollup-plugin-hash) to inject hash filenames.
+* [ ] Add a `module` option to inject `<script type="module" src.... />` right before `</head>`.
+* [ ] Integrate with [rollup-plugin-hash](https://github.com/phamann/rollup-plugin-hash) to inject hash filenames.
 
 ## Installation
 
